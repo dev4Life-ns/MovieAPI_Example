@@ -1,4 +1,4 @@
-  # MovieAPI_Example 
+  # 🎥 MovieAPI_Example 
   
   ## ✍️ Description 
   This repository demonstrates how to build an API from the base up. It contains only the business logic for creating a movie API or any API of your choosing. 
