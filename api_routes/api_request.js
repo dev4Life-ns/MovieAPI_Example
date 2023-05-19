@@ -94,7 +94,7 @@ const createMovieList = async (req, res, next) => {
       };
 
       router
-        .route('/api/v1/stats/:id')
+        .route('/api/p1/movieAPI/:id')
         .get(getActionMovies)
         .put(updateMovieFeed);
 
